@@ -1,1 +1,1 @@
-# Interference-Canceling-using-Normalized-LMS
+# Signal Prediction using LMS
